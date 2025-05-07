@@ -1,0 +1,28 @@
+# Dependency directories
+/node_modules
+/dist
+/build
+
+# TypeScript build artifacts
+/*.js
+/*.js.map
+
+# IDE and editor files
+/.vscode
+/.idea
+/.vs
+/.nyc_output
+
+# Logs
+/*.log
+
+# Environment variables
+/.env
+!/.env.example
+
+# Testing artifacts
+/coverage
+
+# Miscellaneous
+/.DS_Store
+/Thumbs.db
