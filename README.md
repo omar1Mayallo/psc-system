@@ -2,15 +2,7 @@
 While enjoying 🎮 PlayStation 🎮 gaming sessions with my friends 😁 at a local PlayStation center, I noticed that they have a system in place to calculate the time we spend on each gaming device. Inspired by this, I decided to build a program with similar functionality, but with some additional features to enhance the overall experience. Thus, I created the PS Center Server, an API that allows you to track and manage gaming sessions, calculate playtime on different devices, and incorporate additional functionalities like snack ordering and more.
 
 ## DEMO
-You Can See Demo From [Here](https://www.youtube.com/watch?v=c8LhBJ-cQFE)
-
-## Client & Server `Code`
-The code for the client and server of this system can be found in the following repositories⇒
-
-- Client Code: [Ps-Center-Client](https://github.com/omar1Mayallo/ps-center-client).
-- Server Code: [Ps-Center-Server](https://github.com/omar1Mayallo/ps-center-server).
-
-Please feel free to explore the system's functionalities and reach out if you have any inquiries or require further assistance.
+You Can See Demo From [Here](https://www.youtube.com/watch?v=6n2fU9EYnCQ)
 
 ## Tech Stack
 I have utilized **_TypeScript as the primary programming language_** for both server-side and client-side development in the following tech stack.
